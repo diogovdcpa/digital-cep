@@ -1,0 +1,13 @@
+{
+    "name": "matheus/digital-cep",
+    "description": "Busca de cep online",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diogo Vaz de Caldas",
+            "email": "diogovdcpa@gmail.com"
+        }
+    ],
+    "require": {}
+}
